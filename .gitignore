@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# CLI build outputs
+/build/
+/dist/
+
+# Temporary files, logs, and editor backups
+*.log
+*.tmp
+*.swp
+*.swo
+*~
