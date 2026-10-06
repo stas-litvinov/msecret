@@ -21,3 +21,7 @@
 *.swp
 *.swo
 *~
+
+# Swift Package Manager
+.build/
+.swiftpm/
